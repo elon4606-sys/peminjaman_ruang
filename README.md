@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sistem Peminjaman Ruang Kampus
 
 Proyek pembelajaran Rekayasa Perangkat Lunak (RPL) Pertemuan 11.
@@ -15,3 +16,7 @@ Proyek pembelajaran Rekayasa Perangkat Lunak (RPL) Pertemuan 11.
 
 ## Developer
 Nama: [Isi nama mahasiswa]
+=======
+# peminjaman_ruang
+Sistem Informasi Peminjaman Ruang Kampus
+>>>>>>> d49b8ab7f67875083bafc221d163c431a2dad2f6
