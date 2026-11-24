@@ -15,7 +15,9 @@ Proyek pembelajaran Rekayasa Perangkat Lunak (RPL) Pertemuan 11.
 - Input tanggal peminjaman
 
 ## Developer
-Nama: [Isi nama mahasiswa]
+Nama: Abelio Alphonso Dhewa Loza
+Kelas: R5B
+NPM:202433500072
 =======
 # peminjaman_ruang
 Sistem Informasi Peminjaman Ruang Kampus
